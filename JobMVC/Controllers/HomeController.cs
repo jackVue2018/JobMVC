@@ -13,7 +13,7 @@ namespace JobMVC.Controllers
 
         public ActionResult Index()
         {
-
+            string oo = "gg";
             var kk = "gghhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈";
             return View();
         }
